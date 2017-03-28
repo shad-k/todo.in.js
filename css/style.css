@@ -1,0 +1,42 @@
+* {
+	box-sizing: border-box;
+}
+
+
+html {
+	height: 100vh;
+	width: 100vw;
+}
+
+
+body {
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #0099DE;
+}
+
+
+.main {
+	width: 100%;
+	height: 50%;
+	position: absolute;
+	top: 25%;
+	background-color: white;
+}
+
+
+.cards {
+	background-color: red;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+
+
+.todoCard {
+	background-color: blue;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
